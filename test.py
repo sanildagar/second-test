@@ -1,5 +1,5 @@
 # from pydantic import BaseModel
-
+#teststest
 # class Person(BaseModel):
 #     name:str
 #     age:int
@@ -186,4 +186,9 @@ class Data(BaseModel):
 
 
 
+<<<<<<< HEAD
  
+=======
+
+ 
+>>>>>>> 6caa8f8a64a9bc851b6ab33255c03a079e1bf42c
